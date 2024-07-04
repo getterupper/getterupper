@@ -6,7 +6,7 @@ pub:            "International Conference on Robotics and Automation (ICRA)"
 pub_date:       "2024"
 highlight: >-
    By proposing a distillation module to transfer temporal information and richer knowledge to the monocular branch from a privileged branch, we increase the performance of the framework especially on small and long-tailed objects, while striking a balance between performance and efficiency.
-cover:          assets/images/covers/monoocc.jpg
+cover:          assets/images/covers/MonoOcc.jpg
 authors:
 - Yupeng Zheng*
 - Xiang Li*
