@@ -16,7 +16,7 @@ github: getterupper
 # orcid: 0000-0000-0000-0000
 
 short_bios:
-  - I am currently an undergraduate student of Dept. of Computer Sci. & Tech., THU, and an intern of AIR, THU.
+  - 'I am currently an undergraduate student of <a href="https://www.cs.tsinghua.edu.cn">Dept. of Computer Sci. & Tech., THU</a>, and an intern of <a href="https://air.tsinghua.edu.cn">AIR, THU</a>.'
   - My research interests include 3D Scene Understanding, AIGC and Autonomous Driving.
 
 show_portrait: true

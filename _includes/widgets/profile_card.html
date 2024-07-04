@@ -9,9 +9,6 @@
                             {% for position in site.data.profile.positions %}
                             {{ position }}<br/>
                             {% endfor %}
-                            {% if site.data.profile.cv_link %}
-                            <a target="_blank" href="{{ site.data.profile.cv_link }}"><i class="fas fa-file-alt"></i> [Curriculum Vitae]</a> <br/>
-                            {% endif %}
                         </p>
                         <p class="text-profile-bio">
                             {% for short_bio in site.data.profile.short_bios %}
@@ -76,6 +73,12 @@
                         {% if site.data.profile.orcid %}
                         <a class="pr-3 no-break" target="_blank" href="https://orcid.org/{{ site.data.profile.orcid }}">
                             <i class="fab fa-orcid"></i> ORCID
+                        </a>
+                        {% endif %}
+
+                        {% if site.data.profile.cv_link %}
+                        <a target="_blank" href="{{ site.data.profile.cv_link }}">
+                            <i class="fas fa-file-alt"></i> CV
                         </a>
                         {% endif %}
                     </div>
