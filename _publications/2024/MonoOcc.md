@@ -1,6 +1,6 @@
 ---
 title:          MonoOcc: Digging into Monocular Semantic Occupancy Prediction
-date:           2023-01-05 00:01:00 +0800
+date:           2024-03-13 17:59:04 +0800
 selected:       true
 pub:            "International Conference on Robotics and Automation (ICRA)"
 pub_date:       "2024"
