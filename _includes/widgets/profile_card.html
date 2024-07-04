@@ -14,7 +14,9 @@
                             {% endif %}
                         </p>
                         <p class="text-profile-bio">
-                            {{ site.data.profile.short_bio }}
+                            {% for short_bio in site.data.profile.short_bios %}
+                            {{ short_bio }}<br/>
+                            {% endfor %}
                         </p>
                     </div>
                     {% if site.data.profile.show_portrait %}

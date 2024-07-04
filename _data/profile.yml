@@ -15,11 +15,9 @@ github: getterupper
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
-short_bio: >-
-  I am currently an undergraduate student of Dept. of Computer Sci. & Tech., THU, and an intern of AIR, THU. 
-
-
-  My research interests include 3D Scene Understanding, AIGC and Autonomous Driving.
+short_bios:
+  - I am currently an undergraduate student of Dept. of Computer Sci. & Tech., THU, and an intern of AIR, THU.
+  - My research interests include 3D Scene Understanding, AIGC and Autonomous Driving.
 
 show_portrait: true
 portrait_url: assets/images/photos/lixiang.jpg
@@ -38,6 +36,7 @@ experience:
   position: Intern
   date: Sep. 2023 - Now
 
+cv_link: https://getterupper.github.io/shawnlee.github.io/cv/CV.pdf
 
 awards:
 - name: Excellent Academic Scholarship
