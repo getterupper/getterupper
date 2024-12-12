@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Xiang Li"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/THU.png" alt="Tsinghua University" class="inline-badge"/></span> Undergraduate Student, Tsinghua University'
+  - '<span class="no-break"><img src="assets/images/badges/THU.png" alt="Tsinghua University" class="inline-badge"/></span> Undergraduate Student, Department of Computer Science and Technology, Tsinghua University'
 
 email: "l-x21@mails.tsinghua.edu.cn"
 gscholar: tu963_kAAAAJ
@@ -37,16 +37,16 @@ experience:
   date: Sep. 2023 - Now
 - name: HKU Musketeers Foundation Institute of Data Science
   logo: assets/images/badges/IDS_HKU.png
-  position: Summer Intern (Student Research Assistant)
+  position: Student Research Assistant
   date: Jul. 2024 - Sept. 2024
 
 cv_link: https://getterupper.github.io/shawnlee.github.io/cv/CV.pdf
 
 awards:
 - name: Excellent Academic Scholarship
-  date: 2022 & 2023
+  date: 2022 / 2023 / 2024
 - name: Excellent Art Scholarship
-  date: 2022 & 2023
+  date: 2022 / 2023
 - name: Freshman Scholarship
   date: 2021
 
